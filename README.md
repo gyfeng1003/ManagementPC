@@ -1,3 +1,3 @@
-# BIManagementPC
+# ManagementPC
 
-BI后台管理系统PC端
+基于vue+elementUI+typescript后台管理系统PC端模板
