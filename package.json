@@ -28,7 +28,7 @@
     "ts-node-dev": "^1.0.0-pre.43",
     "lodash": "^4.17.15",
     "vue-svgicon": "^3.2.6",
-    "xlsx": "^0.15.1",
+    "xlsx": "^0.17.0",
     "file-saver": "^2.0.2",
     "vue-count-to": "^1.0.13"
   },
